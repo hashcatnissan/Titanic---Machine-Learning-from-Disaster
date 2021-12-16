@@ -36,3 +36,11 @@ A Last Word on Kaggle Notebooks
 As we mentioned before, Kaggle Notebooks is our no-setup, customizable, Jupyter Notebooks environment with free GPUs and a huge repository of community published data & code.
 
 In every competition, you’ll find many Kernels publically shared with incredible insights. It’s an invaluable resource worth becoming familiar with. Check out this competition’s Kernel’s here.
+
+Instruction to follow:
+1. Download titanic dataset from kaggle ,both the train.csv and test.csv
+2. Name a folder as input.
+3. copy the train & test file into that folder.
+4. Open the terminal & type jupyter notebook.
+5. Open Titanic_Dataset_CSE_445_S_M_Gazzali_Arafat_Nishan_1831513642.ipynb file on jupyter notebook.
+6. Run all the cells.
